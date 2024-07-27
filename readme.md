@@ -4,9 +4,6 @@ PAC-MAN is an iconic arcade game where players navigate a maze, eating pellets a
 
 <p align="center"><img src="./Media/1.jpg" width="50%" height="50%"></p>
 
-# Setup
-
-Load the project in Unreal
 
 ## Download the project:
 Contact me: fetbarcelon@gmail.com
