@@ -6,5 +6,4 @@ PAC-MAN is an iconic arcade game where players navigate a maze, eating pellets a
 
 
 ## Download the project:
-Contact me: fetbarcelon@gmail.com
-
+Contact me: stephania.cortes.alzate1@gmail.com
